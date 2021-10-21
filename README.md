@@ -1,4 +1,4 @@
-
+![This is my banner photo](https://github.com/AZICO/AZICO/blob/main/bigredsmile-a-screwdriver-clip-art-42484.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Azamat</h1>
